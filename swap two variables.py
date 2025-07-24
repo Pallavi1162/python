@@ -7,7 +7,7 @@ b = temp
 print('a, b' , a, b)
 
 shortcut:
-
+-------------------------
 x = 12
 y = 23
 print('x , y' , x , y)
